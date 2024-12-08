@@ -18,7 +18,7 @@
 
 <h4>Project contributors :</h4>
 
-<h4>:</h4>
+<h4>Rashi Yadav</h4>
 
 
  
